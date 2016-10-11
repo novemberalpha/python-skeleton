@@ -1,5 +1,5 @@
 # python-skeleton
-This is a starter set for python projects taken entirely from Learn Python the Hard Way.
+This is a starter set for python projects taken entirely from [Learn Python the Hard Way](https://learncodethehardway.org/python/).
 
 1. Make a copy of your skeleton directory. Name it after your new project
 2. Rename (move) the NAME directory to be the name of your project or whatever you want to call your root module
