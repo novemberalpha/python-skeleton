@@ -1,7 +1,7 @@
 # python-skeleton
 This is a starter set for python projects taken entirely from [Learn Python the Hard Way](https://learncodethehardway.org/python/).
 
-1. Make a copy of your skeleton directory. Name it after your new project
+1. Make a copy of your skeleton directory and name it after your new project. `cp -R python-skeleton NEWPROJECT`
 2. From the command line cd into your new directory. `cd NEWPROJECT`
 3. Delete the Skeleton git info. `rm -rf .git`
 4. Rename (move) the NAME directory to be the name of your project or whatever you want to call your root module
