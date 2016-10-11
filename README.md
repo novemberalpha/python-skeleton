@@ -8,5 +8,6 @@ This is a starter set for python projects taken entirely from [Learn Python the 
 5. Edit your setup.py to have all the information for your project
 6. Rename tests/NAME_tests.py to also have your module name
 7. Double check it's all working by using `nosetests` again
+8. Delete README.md. `rm README.md`
 8. Initialize git. `git init`
 9. Start coding
